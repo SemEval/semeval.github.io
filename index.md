@@ -9,7 +9,7 @@ Each year's workshop features a collection of shared tasks in which computationa
 
 SemEval is sponsored by the [SIGLEX](http://alt.qcri.org/siglex/) Special Interest Group on the Lexicon of the Association for Computational Linguistics.
 For more information on SemEval and its history, please see
-http://en.wikipedia.org/wiki/SemEval.
+<http://en.wikipedia.org/wiki/SemEval>.
 
 ## [SemEval-2020](http://alt.qcri.org/semeval2020/)
 

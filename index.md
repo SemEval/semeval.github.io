@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## International Workshop on Semantic Evaluation
 
-You can use the [editor on GitHub](https://github.com/SemEval/semeval.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+__SemEval__ is a series of international natural language processing (NLP) research workshops whose mission is to advance the current state of the art in semantic analysis and to help create high-quality annotated datasets in a range of increasingly challenging problems in natural language semantics. 
+Each year's workshop features a collection of shared tasks in which computational semantic analysis systems designed by different teams are presented and compared.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SemEval is sponsored by the [SIGLEX](http://alt.qcri.org/siglex/) Special Interest Group on the Lexicon of the Association for Computational Linguistics.
+For more information on SemEval and its history, please see
+http://en.wikipedia.org/wiki/SemEval.
 
-### Markdown
+## SemEval-2020
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[SemEval-2020](http://alt.qcri.org/semeval2020/) features 12 tasks on topics ranging from lexical semantic change to offensive language in social media.
 
-```markdown
-Syntax highlighted code block
+It will take place September 13–14, 2020 in Barcelona, Spain, colocated with [COLING 2020](https://coling2020.org/).
 
-# Header 1
-## Header 2
-### Header 3
+## SemEval-2021
 
-- Bulleted
-- List
+We invite task proposals for the 15th International Workshop on Semantic Evaluation (SemEval-2021).
 
-1. Numbered
-2. List
+The schedule and call for tasks will be posted shortly.
 
-**Bold** and _Italic_ and `Code` text
+### Organizers
 
-[Link](url) and ![Image](src)
-```
+- [Aurelie Herbelot](http://aurelieherbelot.net/), University of Trento
+- [Xiaodan Zhu](http://www.xiaodanzhu.com/), Queen's University
+- [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/), Georgetown University
+- [Alexis Palmer](https://linguistics.unt.edu/alexis-palmer), University of North Texas
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+__Contact:__ General questions about SemEval organization should be directed to <semeval-organizers@googlegroups.com>.
 
-### Jekyll Themes
+## Anti-Harassment policy
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SemEval/semeval.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+SemEval highly values the open exchange of ideas, freedom of thought and expression, and respectful scientific debate. We support and uphold the [NAACL Anti-Harassment policy](http://naacl.org/policies/anti-harassment.html). Participants are encouraged to send any concerns or questions to the [NAACL Board members](http://naacl.org/officers/), [Priscilla Rasmussen](mailto:acl@aclweb.org) and/or the workshop organizers.

@@ -1,6 +1,5 @@
 ---
-site.title: SemEval
-site.description: International Workshop on Semantic Evaluation
+title: SemEval
 ---
 
 ## What is SemEval?

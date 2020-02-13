@@ -19,9 +19,23 @@ It will take place September 13–14, 2020 in Barcelona, Spain, colocated with [
 
 ## SemEval-2021
 
-We invite task proposals for the 15th International Workshop on Semantic Evaluation (SemEval-2021).
+### Calls
 
-The schedule and call for tasks will be posted shortly.
+__[Call for Task Proposals](semeval2021-cft.html)__: We invite task proposals for the 15th International Workshop on Semantic Evaluation (SemEval-2021).
+
+### Important dates
+
+- __Task proposals due: March 20, 2020__
+- Task selection notification: May 8, 2020
+- Trial data ready: July 31, 2020
+- Training data ready: September 4, 2020
+- Test data ready: December 3, 2020
+- __Evaluation start: January 10, 2021__
+- __Evaluation end: January 31, 2021__
+- Paper submission due: February 23, 2021
+- Notification to authors: March 29, 2021
+- Camera ready due: April 5, 2021
+- __SemEval workshop: Summer 2021__
 
 ### Organizers
 

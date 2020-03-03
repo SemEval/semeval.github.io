@@ -23,6 +23,8 @@ It will take place September 13–14, 2020 in Barcelona, Spain, colocated with [
 
 __[Call for Task Proposals](semeval2021-cft.html)__: We invite task proposals for the 15th International Workshop on Semantic Evaluation (SemEval-2021).
 
+__[Submission site for Task Proposals](https://www.softconf.com/coling2020/SemEval2021/)__
+
 ### Important dates
 
 - __Task proposals due: March 20, 2020__

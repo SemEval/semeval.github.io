@@ -17,36 +17,11 @@ The 14th edition of SemEval features 12 tasks on topics ranging from lexical sem
 
 It will take place September 13–14, 2020 in Barcelona, Spain, colocated with [COLING 2020](https://coling2020.org/).
 
-## SemEval-2021
+## [SemEval-2021](https://semeval.github.io/SemEval2021/)
 
-### Calls
+We invite [task proposals](https://semeval.github.io/SemEval2021/cft.html) for the 15th International Workshop on Semantic Evaluation (SemEval-2021).
 
-__[Call for Task Proposals](semeval2021-cft.html)__: We invite task proposals for the 15th International Workshop on Semantic Evaluation (SemEval-2021).
-
-__[Submission site for Task Proposals](https://www.softconf.com/coling2020/SemEval2021/)__
-
-### Important dates
-
-- __Task proposals due: March 20, 2020__
-- Task selection notification: May 8, 2020
-- Trial data ready: July 31, 2020
-- Training data ready: September 4, 2020
-- Test data ready: December 3, 2020
-- __Evaluation start: January 10, 2021__
-- __Evaluation end: January 31, 2021__
-- Paper submission due: February 23, 2021
-- Notification to authors: March 29, 2021
-- Camera ready due: April 5, 2021
-- __SemEval workshop: Summer 2021__
-
-### Organizers
-
-- [Aurelie Herbelot](http://aurelieherbelot.net/), University of Trento
-- [Xiaodan Zhu](http://www.xiaodanzhu.com/), Queen's University
-- [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/), Georgetown University
-- [Alexis Palmer](https://linguistics.unt.edu/alexis-palmer), University of North Texas
-
-__Contact:__ General questions about SemEval organization should be directed to <semeval-organizers@googlegroups.com>.
+The evaluation period will take place in January 2021 and the workshop in summer 2021. See the [SemEval-2021 homepage](https://semeval.github.io/SemEval2021/) for details.
 
 ## Anti-Harassment policy
 

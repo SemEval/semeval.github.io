@@ -26,3 +26,4 @@ The evaluation period will take place in January 2021 and the workshop in summer
 ## Anti-Harassment policy
 
 SemEval highly values the open exchange of ideas, freedom of thought and expression, and respectful scientific debate. We support and uphold the [NAACL Anti-Harassment policy](http://naacl.org/policies/anti-harassment.html). Participants are encouraged to send any concerns or questions to the [NAACL Board members](http://naacl.org/officers/), [Priscilla Rasmussen](mailto:acl@aclweb.org) and/or the workshop organizers.
+ 

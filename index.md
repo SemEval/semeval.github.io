@@ -19,6 +19,8 @@ It will take place September 13–14, 2020 in Barcelona, Spain, colocated with [
 
 ## [SemEval-2021](https://semeval.github.io/SemEval2021/)
 
+# NEW: TASK PROPOSAL SUBMISSION DEADLINE EXTENDED TO APRIL 3, 2020
+
 We invite [task proposals](https://semeval.github.io/SemEval2021/cft.html) for the 15th International Workshop on Semantic Evaluation (SemEval-2021).
 
 The evaluation period will take place in January 2021 and the workshop in summer 2021. See the [SemEval-2021 homepage](https://semeval.github.io/SemEval2021/) for details.

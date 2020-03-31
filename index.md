@@ -15,7 +15,7 @@ For more information on SemEval and its history, please see
 
 The 14th edition of SemEval features 12 tasks on topics ranging from lexical semantic change to offensive language in social media.
 
-It will take place September 13–14, 2020 in Barcelona, Spain, colocated with [COLING 2020](https://coling2020.org/).
+It will take place December 12-13, 2020 in Barcelona, Spain, colocated with [COLING 2020](https://coling2020.org/).
 
 ## [SemEval-2021](https://semeval.github.io/SemEval2021/)
 

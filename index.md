@@ -19,9 +19,7 @@ It will take place December 12-13, 2020 in Barcelona, Spain, colocated with [COL
 
 ## [SemEval-2021](https://semeval.github.io/SemEval2021/)
 
-# NEW: 2021 TASKS ANNOUNCED
-
-The 15th edition of SemEval will feature 12 [tasks](https://semeval.github.io/SemEval2021/tasks.html) ranging from prediction of lexical complexity to learning with disagreements, and including several cross-lingual and multi-modal tasks.
+The 15th edition of SemEval will feature [tasks](https://semeval.github.io/SemEval2021/tasks.html) ranging from prediction of lexical complexity to learning with disagreements, and including several cross-lingual and multi-modal tasks.
 
 The evaluation period will take place in January 2021 and the workshop in summer 2021. See the [SemEval-2021 homepage](https://semeval.github.io/SemEval2021/) for details.
 

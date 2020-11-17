@@ -15,13 +15,15 @@ For more information on SemEval and its history, please see
 
 The 14th edition of SemEval features 12 tasks on topics ranging from lexical semantic change to offensive language in social media.
 
-It will take place December 12-13, 2020 in Barcelona, Spain, colocated with [COLING 2020](https://coling2020.org/).
+It will take place December 12–13, 2020 ~in Barcelona, Spain~ online, colocated with [COLING 2020](https://coling2020.org/).
 
 ## [SemEval-2021](https://semeval.github.io/SemEval2021/)
 
 The 15th edition of SemEval will feature [tasks](https://semeval.github.io/SemEval2021/tasks.html) ranging from prediction of lexical complexity to learning with disagreements, and including several cross-lingual and multi-modal tasks.
 
-The evaluation period will take place in January 2021 and the workshop in summer 2021. See the [SemEval-2021 homepage](https://semeval.github.io/SemEval2021/) for details.
+The evaluation period will take place in January 2021. See the [SemEval-2021 homepage](https://semeval.github.io/SemEval2021/) for details.
+
+The workshop will take place August 5–6, 2021 in Bangkok, Thailand, colocated with [ACL-IJCNLP 2021](https://2021.aclweb.org/).
 
 ## Anti-Harassment policy
 

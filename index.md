@@ -17,6 +17,8 @@ The 14th edition of SemEval features 12 tasks on topics ranging from lexical sem
 
 It will take place December 12–13, 2020 <s>in Barcelona, Spain</s> online, colocated with [COLING 2020](https://coling2020.org/).
 
+[__WORKSHOP SCHEDULE POSTED!__](https://semeval.github.io/semeval2020-sched.html)
+
 ## [SemEval-2021](https://semeval.github.io/SemEval2021/)
 
 The 15th edition of SemEval will feature [tasks](https://semeval.github.io/SemEval2021/tasks.html) ranging from prediction of lexical complexity to learning with disagreements, and including several cross-lingual and multi-modal tasks.

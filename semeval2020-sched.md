@@ -10,8 +10,7 @@ title: SemEval-2020 Program
 
 ### Session One: Sentiment analysis and societal applications (Tasks 9, 11, 12)
 
-14:00-14:30 <details open> <summary markdown="span">Opening remarks, Q&A for oral presentations
- </summary>
+14:00-14:30 <details open>Opening remarks, Q&A for oral presentations
 
  - _SemEval-2020 Task 9: Overview of Sentiment Analysis of Code-Mixed Tweets_<br>
    Parth Patwa, Gustavo Aguilar, Sudipta Kar, Suraj Pandey, Srinivas PYKL, Björn Gambäck, Tanmoy Chakraborty, Thamar Solorio and Amitava Das

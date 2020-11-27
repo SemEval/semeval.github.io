@@ -2,13 +2,13 @@
 title: SemEval-2020 Program
 ---
 
-## SemEval 2020: December 12-13, 2020
+## SemEval 2020: Program
 
 [SemEval-2020](http://alt.qcri.org/semeval2020) will be colocated with [COLING 2020](https://coling2020.org). All times shown are Central European Time (CET, UTC+1)
 
-## Saturday, December 12
+### Saturday, December 12
 
-### Session One: Sentiment analysis and societal applications (Tasks 9, 11, 12)
+#### Session One: Sentiment analysis and societal applications (Tasks 9, 11, 12)
 
 14:00-14:30 <details open><summary>Opening remarks, Q&A for oral presentations</summary>
 
@@ -98,7 +98,7 @@ Sajad Sotudeh, Tong Xiang, Hao-Ren Yao, Sean MacAvaney, Eugene Yang, Nazli Gohar
  
  </details> 
 
-### Session Two: \*SEM/SemEval keynote talk: [Afra Alishahi](http://afra.alishahi.name/)
+#### Session Two: \*SEM/SemEval keynote talk: [Afra Alishahi](http://afra.alishahi.name/)
 
 16:00-17:00 <details open><summary>_Grounded language learning, from sounds and images to meaning_, Afra Alishahi, University of Tilburg</summary>
  
@@ -106,7 +106,7 @@ Abstract: Humans learn to understand speech from weak and noisy supervision: the
 
 </details>
             
-### Session Three: Lexical semantics (Tasks 1, 2, 3)
+#### Session Three: Lexical semantics (Tasks 1, 2, 3)
 
 17:00-17:30 <details open><summary> Q&A for oral presentations</summary>
 
@@ -157,9 +157,9 @@ Helena Gomez-Adorno, Gemma Bel-Enguix, Jorge Reyes-Magaña, Benjamín Moreno, Ra
  
 </details>
 
-## Sunday, December 13
+### Sunday, December 13
 
-### Session Four: Common Sense Knowledge and Reasoning, Knowledge Extraction (Tasks 4, 5, 6)
+#### Session Four: Common Sense Knowledge and Reasoning, Knowledge Extraction (Tasks 4, 5, 6)
 
 14:00-14:30 <details open><summary>Q&A for oral presentations</summary>
 
@@ -213,7 +213,7 @@ Adis Davletov, Nikolay Arefyev, Alexander Shatilov, Denis Gordeev and Alexey Rey
  
 </details>
 
-### Session Five: SemEval keynote talk: [Jackie C.K. Cheung](https://www.cs.mcgill.ca/~jcheung/)
+#### Session Five: SemEval keynote talk: [Jackie C.K. Cheung](https://www.cs.mcgill.ca/~jcheung/)
 
 16:00-17:00 <details open><summary>_From Discourse Structure to Semantics in Automatic Summarization_, Jackie C.K. Cheung, McGill University</summary>
 
@@ -221,7 +221,7 @@ Abstract: The stereotypical discourse structure of a genre is often a good indic
 
 </details>
 
-### Session Six: Humour and emphasis (Tasks 7, 8, 10)
+#### Session Six: Humour and emphasis (Tasks 7, 8, 10)
 
 17:00-17:30 <details open><summary>Q&A for oral presentations</summary>
 

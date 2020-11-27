@@ -12,7 +12,7 @@ title: SemEval-2020 Program
 
 14:00-14:30 <details open><summary>
  Opening remarks, Q&A for oral presentations
- </summary>
+ </summary><p>
 
  - _SemEval-2020 Task 9: Overview of Sentiment Analysis of Code-Mixed Tweets_<br>
    Parth Patwa, Gustavo Aguilar, Sudipta Kar, Suraj Pandey, Srinivas PYKL, Björn Gambäck, Tanmoy Chakraborty, Thamar Solorio and Amitava Das
@@ -26,7 +26,7 @@ title: SemEval-2020 Program
    Dawid Jurkiewicz, Łukasz Borchmann, Izabela Kosmala and Filip Graliński
  - _Galileo at SemEval-2020 Task 12: Multi-lingual Learning for Offensive Language Identification Using Pre-trained Language Models_<br>
    Shuohuan Wang, Jiaxiang Liu, Xuan Ouyang and Yu Sun
- 
+</p>
 </details>
 
 14:30-16:00 <details><summary>Poster session</summary>

@@ -11,7 +11,7 @@ title: SemEval-2020 Program
 ### Session One: Sentiment analysis and societal applications (Tasks 9, 11, 12)
 
 14:00-14:30 <details open>
- <summary>Opening remarks, Q&A for oral presentations</summary>
+ <summary markdown="span">Opening remarks, Q&A for oral presentations</summary>
 
 
  - _SemEval-2020 Task 9: Overview of Sentiment Analysis of Code-Mixed Tweets_<br>

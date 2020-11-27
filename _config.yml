@@ -2,6 +2,3 @@ title: SemEval
 description: International Workshop on Semantic Evaluation
 theme: jekyll-theme-slate
 
-markdown: kramdown
-kramdown:
-  parse_block_html: true

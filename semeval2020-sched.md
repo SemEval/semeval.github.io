@@ -55,7 +55,7 @@ _(updated: 3 Dec)_
  Anton Chernyavskiy, Dmitry Ilvovsky and Preslav Nakov
 - _NTUAAILS at SemEval-2020 Task 11: Propaganda Detection and Classification with biLSTMs and ELMo_ <br>
 Anastasios Arsenos and Georgios Siolas
-- _Team DoNotDistribute at SemEval-2020 Task 11: Features, Finetuning, and Data Augmentation in Neural Models for Propaganda Detection in News Articles<br>
+- _Team DoNotDistribute at SemEval-2020 Task 11: Features, Finetuning, and Data Augmentation in Neural Models for Propaganda Detection in News Articles_<br>
  Michael Kranzlein, Shabnam Behzad and Nazli Goharian
 - _NoPropaganda at SemEval-2020 Task 11: A Borrowed Approach to Sequence Tagging and Text Classification_ <br>
  Ilya Dimov, Vladislav Korzun and Ivan Smurov

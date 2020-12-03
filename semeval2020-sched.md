@@ -6,6 +6,8 @@ title: SemEval-2020 Program
 
 [SemEval-2020](http://alt.qcri.org/semeval2020) will be colocated with [COLING 2020](https://coling2020.org). All times shown are Central European Time (CET, UTC+1)
 
+_(updated: 3 Dec)_
+
 ### Saturday, December 12
 
 #### Session One: Sentiment analysis and societal applications (Tasks 9, 11, 12)
@@ -41,16 +43,10 @@ title: SemEval-2020 Program
   Frances Adriana Laureano De Leon, Florimond Guéniat and Harish Tayyar Madabushi
 - _HPCC-YNU at SemEval-2020 Task 9: A Bilingual Vector Gating Mechanism for Sentiment Analysis of Code-Mixed Text_ <br>
   Jun Kong, Jin Wang and Xuejie Zhang
-- _MSR India at SemEval-2020 Task 9: Multilingual Models Can Do Code-Mixing Too_ <br>
-  Anirudh Srinivasan
-_ _NLP-CIC at SemEval-2020 Task 9: Analysing Sentiment in Code-switching Language Using a Simple Deep-learning Classifier_ <br>
-  Jason Angel, Segun Taofeek Aroyehun, Antonio Tamayo and Alexander Gelbukh
 - _HinglishNLP at SemEval-2020 Task 9: Fine-tuned Language Models for Hinglish Sentiment Detection_ <br>
   Meghana Bhange and Nirant Kasliwal
 - _IIITG-ADBU at SemEval-2020 Task 9: SVM for Sentiment Analysis of English-Hindi Code-Mixed Text_ <br>
  Arup Baruah, Kaushik Das, Ferdous Barbhuiya and Kuntal Dey
-- _Inno at SemEval-2020 Task 11: Leveraging Pure Transfomer for Multi-Class Propaganda Detection_ <br>
- Dmitry Grigorev and Vladimir Ivanov
 - _CyberWallE at SemEval-2020 Task 11: An Analysis of Feature Engineering for Ensemble Models for Propaganda Detection_ <br>
  Verena Blaschke, Maxim Korniyenko and Sam Tureski
 - _YNU-HPCC at SemEval-2020 Task 11: LSTM Network for Detection of Propaganda Techniques in News Articles_ <br>
@@ -63,8 +59,6 @@ Anastasios Arsenos and Georgios Siolas
  Michael Kranzlein, Shabnam Behzad and Nazli Goharian
 - _NoPropaganda at SemEval-2020 Task 11: A Borrowed Approach to Sequence Tagging and Text Classification_ <br>
  Ilya Dimov, Vladislav Korzun and Ivan Smurov
-- _LT@Helsinki at SemEval-2020 Task 12: Multilingual or Language-specific BERT?_ <br>
- Marc Pàmies, Emily Öhman, Kaisla Kajava and Jörg Tiedemann
 - _UHH-LT at SemEval-2020 Task 12: Fine-Tuning of Pre-Trained Transformer Networks for Offensive Language Detection_ <br>
  Gregor Wiedemann, Seid Muhie Yimam and Chris Biemann
 - _GruPaTo at SemEval-2020 Task 12: Retraining mBERT on Social Media and Fine-tuned Offensive Language Models_ <br>
@@ -132,8 +126,6 @@ Terufumi Morishita, Gaku Morio, Hiroaki Ozaki and Toshinori Miyoshi<br>
 Andrey Kutuzov and Mario Giulianelli
 - _Discovery Team at SemEval-2020 Task 1: Context-sensitive Embeddings Not Always Better than Static for Semantic Change Detection_<br>
 Matej Martinc, Syrielle Montariol, Elaine Zosa and Lidia Pivovarova
-- _RIJP at SemEval-2020 Task 1: Gaussian-based Embeddings for Semantic Change Detection_<br>
-Ran Iwamoto and Masahiro Yukawa
 - _SChME at SemEval-2020 Task 1: A Model Ensemble for Detecting Lexical Semantic Change_<br>
 Maurício Gruppi, Sibel Adali and Pin-Yu Chen
 - _SenseCluster at SemEval-2020 Task 1: Unsupervised Lexical Semantic Change Detection_<br>
@@ -196,8 +188,6 @@ Hongru Wang, Xiangru Tang, Sunny Lai, Kwong Sak Leung, Jia Zhu, Gabriel Pui Cheo
 Wiem Ben Rim and Naoaki Okazaki
 - _Masked Reasoner at SemEval-2020 Task 4: Fine-Tuning RoBERTa for Commonsense Reasoning_ <br>
 Daming Lu
-- _IITK-RSA at SemEval-2020 Task 5: Detecting Counterfactuals_ <br>
-Anirudh Anil Ojha, Rohin Garg, Shashank Gupta and Ashutosh Modi
 - _BUT-FIT at SemEval-2020 Task 5: Automatic Detection of Counterfactual Statements with Deep Pre-trained Language Representation Models_ <br>
 Martin Fajcik, Josef Jon, Martin Docekal and Pavel Smrz
 - _CNRL at SemEval-2020 Task 5: Modelling Causal Reasoning in Language with Multi-Head Self-Attention Weights Based Counterfactual Detection_ <br>
@@ -210,6 +200,8 @@ Hanna Abi-Akl, Dominique Mariko and Estelle Labidurie
 Fabien Caspani, Pirashanth Ratnamogan, Mathis Linger and Mhamed Hajaiej
 - _Gorynych Transformer at SemEval-2020 Task 6: Multi-task Learning for Definition Extraction_ <br>
 Adis Davletov, Nikolay Arefyev, Alexander Shatilov, Denis Gordeev and Alexey Rey
+- _RIJP at SemEval-2020 Task 1: Gaussian-based Embeddings for Semantic Change Detection_<br>
+Ran Iwamoto and Masahiro Yukawa
  
 </details>
 

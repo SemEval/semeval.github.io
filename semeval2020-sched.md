@@ -6,7 +6,9 @@ title: SemEval-2020 Program
 
 [SemEval-2020](http://alt.qcri.org/semeval2020) will be colocated with [COLING 2020](https://coling2020.org). All times shown are Central European Time (CET, UTC+1)
 
-_(updated: 3 Dec)_
+[Proceedings in the ACL Anthology](https://www.aclweb.org/anthology/volumes/2020.semeval-1/)
+
+_(schedule updated: 3 Dec)_
 
 ### Saturday, December 12
 

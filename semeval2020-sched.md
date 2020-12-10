@@ -227,7 +227,7 @@ Chhavi Sharma, Deepesh Bhageria, William Scott, Srinivas Pykl, Amitava Das, Tanm
 Amirreza Shirani, Franck Dernoncourt, Nedim Lipka, Paul Asente, Jose Echevarria and Thamar Solorio
 - #156 _SESAM at SemEval-2020 Task 8: Investigating the Relationship between Image and Text in Sentiment Analysis of Memes_ <br>
 Lisa Bonheme and Marek Grzes
-- #196_IDS at SemEval-2020 Task 10: Does Pre-trained Language Model Know What to Emphasize?_ <br>
+- #196 _IDS at SemEval-2020 Task 10: Does Pre-trained Language Model Know What to Emphasize?_ <br>
 Jaeyoul Shin, Taeuk Kim and Sang-goo Lee
 
 </details>
@@ -258,7 +258,7 @@ Xiaoyu Guo, Jing Ma and Arkaitz Zubiaga
 Pradyumna Gupta, Himanshu Gupta and Aman Sinha
 - #257 _IIITG-ADBU at SemEval-2020 Task 8: A Multimodal Approach to Detect Offensive, Sarcastic and Humorous Memes_<br>
 Arup Baruah, Kaushik Das, Ferdous Barbhuiya and Kuntal Dey
-- #282_NLP_UIOWA at SemEval-2020 Task 8: You're Not the Only One Cursed with Knowledge - Multi Branch Model Memotion Analysis_<br>
+- #282 _NLP_UIOWA at SemEval-2020 Task 8: You're Not the Only One Cursed with Knowledge - Multi Branch Model Memotion Analysis_<br>
 Ingroj Shrestha and Jonathan Rusert
 - #206 _ERNIE at SemEval-2020 Task 10: Learning Word Emphasis Selection by Pre-trained Language Model_<br>
 Zhengjie Huang, Shikun Feng, Weiyue Su, Xuyi Chen, Shuohuan Wang, Jiaxiang Liu, Xuan Ouyang and Yu Sun

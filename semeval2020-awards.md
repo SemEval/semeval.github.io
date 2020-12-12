@@ -15,7 +15,7 @@ that stands out for making an important intellectual contribution to empirical c
 semantics, as demonstrated by a creative, interesting, and scientifically rigorous dataset 
 and evaluation design, and a well-written task overview paper.
 
-### :sparkles: :star2: [Best Task 2020: Task 7, Assessing Humor in Edited News Headlines](https://www.aclweb.org/anthology/2020.semeval-1.98/):star2::sparkles:
+### [Best Task 2020: Task 7, Assessing Humor in Edited News Headlines](https://www.aclweb.org/anthology/2020.semeval-1.98/)
 ### _Nabil Hossain, John Krumm, Michael Gamon, and Henry Kautz_
 
 The set-up for this computational humor task combines cleverness and simplicity, 
@@ -27,7 +27,7 @@ to edited headlines, 2) identify the funniest of two edited versions of the same
 The task description paper is well-written and includes insightful analysis both 
 of the performance of participating systems and of interesting aspects of the task. 
 
-#### :sparkles:[Honorable Mention: Task 4, Commonsense Validation and Explanation](https://www.aclweb.org/anthology/2020.semeval-1.39/):sparkles:
+#### [Honorable Mention: Task 4, Commonsense Validation and Explanation](https://www.aclweb.org/anthology/2020.semeval-1.39/)
 #### _Cunxiang Wang, Shuailong Liang, Yili Jin, Yilong Wang, Xiaodan Zhu, and Yue Zhang_
 
 This task addresses the important task of distinguishing between natural language utterances that make sense (according to commonsense knowledge)
@@ -39,7 +39,7 @@ the more sensible of the two statements, 2) choosing the best explanation from t
 paper provides thorough explanations of the task, the dataset and its construction, and the evaluation metrics, as well as detailed analysis of the dataset. 
 It concludes with an overview of the systems participating in the task.
 
-#### :sparkles:[Honorable Mention: Task 11, Detection of Propaganda Techniques in News Articles](https://www.aclweb.org/anthology/2020.semeval-1.186/):sparkles:
+#### [Honorable Mention: Task 11, Detection of Propaganda Techniques in News Articles](https://www.aclweb.org/anthology/2020.semeval-1.186/)
 #### _Giovanni Da San Martino, Alberto Barrón-Cedeño, Henning Wachsmuth, Rostislav Petrov, and Preslav Nakov_
 
 This task addresses the very important and very difficult challenge of identifying propagandistic techniques as used in news articles. 
@@ -55,7 +55,7 @@ The Best Paper award, for task participants, recognizes a system description pap
 available solutions with respect to a task. It need not be the highest-scoring system in the task, but it must have a strong analysis 
 component in the evaluation, as well as a clear and reproducible description of the problem, algorithms, and methodology.
 
-### :sparkles: :star2:[Best Paper 2020: ApplicaAI at SemEval-2020 Task 11: On RoBERTa-CRF, Span CLS and Whether Self-Training Helps Them](https://www.aclweb.org/anthology/2020.semeval-1.187/) :star2::sparkles:
+### [Best Paper 2020: ApplicaAI at SemEval-2020 Task 11: On RoBERTa-CRF, Span CLS and Whether Self-Training Helps Them](https://www.aclweb.org/anthology/2020.semeval-1.187/) 
 ### _Dawid Jurkiewicz, Łukasz Borchmann, Izabela Kosmala, and Filip Graliński_
 
 This paper approaches the task of propaganda detection and classification, successfully combining modern neural models (Transformers) 
@@ -64,7 +64,7 @@ is exemplary, reporting variance from random seeds, and an ablation study of the
 insightful, identifying which classes are most often confused and which linguistic features correlate with model errors. 
 Overall, there are clear conclusions for future researchers looking at this task, or looking to apply these techniques to other tasks.
 
-#### :sparkles:[Honorable Mention: SESAM at SemEval-2020 Task 8: Investigating the relationship between image and text in sentiment analysis of memes](https://www.aclweb.org/anthology/2020.semeval-1.102/):sparkles:
+#### [Honorable Mention: SESAM at SemEval-2020 Task 8: Investigating the relationship between image and text in sentiment analysis of memes](https://www.aclweb.org/anthology/2020.semeval-1.102/)
 #### _Lisa Bonheme and Marek Grzes_
 
 This paper approaches the task of sentiment analysis of memes, with a careful consideration of how to combine features from the text 

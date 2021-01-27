@@ -13,6 +13,7 @@ NOTES:
    - <https://www.aclweb.org/anthology/S14-2030>
    - <https://www.aclweb.org/anthology/S18-1008>
    - <https://www.aclweb.org/anthology/S07-1044> [multiple tasks]
+   - Best paper awardees at SemEval-2020: <https://semeval.github.io/semeval2020-awards.html>
 5. We would like to emphasize the importance of analysis of your system’s behavior beyond the overall scores. There will be a best paper award to recognize system papers with strong analysis.
 
 ## Abstract

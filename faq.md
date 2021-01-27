@@ -34,7 +34,7 @@ This depends on the task. Task organizers often specify how many submissions by 
 
 ### Where can I find datasets from past SemEval tasks?
 
-Task datasets are distributed by task organizers, not the SemEval organization. Starting with SemEval 2020 task organizers have been asked to archive datasets on Zenodo after the evaluation period concludes: https://zenodo.org/communities/semeval/ For other tasks, check the task website and if that fails, contact the task organizers.
+Task datasets are distributed by task organizers, not the SemEval organization. Starting with SemEval 2020 task organizers have been asked to archive datasets on Zenodo after the evaluation period concludes: <https://zenodo.org/communities/semeval/> For other tasks, check the task website and if that fails, contact the task organizers.
 
 ## On Papers, Proceedings, and the Workshop
 
@@ -72,7 +72,7 @@ SemEval paper titles follow a fixed template, where `YYYY` represents the year a
 
 ### Where can I find published papers?
 
-SemEval proceedings are published in the ACL Anthology: https://www.aclweb.org/anthology/venues/semeval/
+SemEval proceedings are published in the ACL Anthology: <https://www.aclweb.org/anthology/venues/semeval/>
 
 Typically papers are published about a week prior to the start of the conference with which the SemEval workshop is colocated.
 

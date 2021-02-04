@@ -36,7 +36,7 @@ Acknowledgments, references, and appendices do NOT count toward page limits.
 ### Camera-ready versions
 
 Once accepted, your final paper may have an additional page so you can address reviewer feedback. 
-Thus: 5 pages for a single-task system, 9 pages for multiple (sub)tasks, 10 pages for task descriptions (not counting acknowledgments/references/appendices).
+Thus: 6 pages for a single-task system, 9 pages for multiple (sub)tasks, 10 pages for task descriptions (not counting acknowledgments/references/appendices).
 
 ## **Title**
 

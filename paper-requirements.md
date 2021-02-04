@@ -1,6 +1,6 @@
 # Paper Submission Requirements
 
-This page describes requirements for papers submitted to and published in SemEval. For other questions about SemEval, see [the FAQ](faq.html).
+This page describes requirements for papers submitted to and published in [SemEval](https://semeval.github.io/). For other questions about SemEval, see [the FAQ](faq.html).
 
 There are two kinds of papers: **system description papers**, which every team participating in a task has the option to submit; 
 and **task description papers** written by each set of task organizers. 

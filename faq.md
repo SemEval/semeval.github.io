@@ -56,19 +56,8 @@ However, there is a registration fee if you choose to attend the workshop. For a
 
 ### How should my paper be structured?
 
-Specific style and length requirements will be communicated to task participants. There are also [general recommendations for writing system papers](https://semeval.github.io/system-paper-template.html).
-
-### What should the title of my paper be?
-
-SemEval paper titles follow a fixed template, where `YYYY` represents the year and `N` represents the task number:
-
-- System description papers for one task (any number of subtasks) are titled "Team Name at SemEval-`YYYY` Task `N`: Descriptive Title"
-  * Note "at" and not "@"
-  * Note that SemEval and the year are separated by a hyphen and no spaces, e.g. "SemEval-2020"
-  * Note that there is a colon, not a hyphen, after the task number, and a space after but not before the colon
-  * Authors are free to choose the Descriptive Title as they would a normal paper title; it may mention a particular question addressed, method used, or finding discussed in the paper
-- System description papers for *multiple* tasks are titled "Team Name at SemEval-`YYYY` Tasks `N1` and `N2`: Descriptive Title" (2 tasks) or "Team Name at SemEval-`YYYY` Tasks `N1`, `N2`, and `N3`: Descriptive Title" (3 or more tasks)
-- Task description papers are titled "Task `N` at SemEval-`YYYY`: Task Name"
+SemEval has special [paper requirements](paper-requirements.html) for the title, length, and other details. 
+There are also [general recommendations for writing system papers](https://semeval.github.io/system-paper-template.html).
 
 ### Where can I find published papers?
 

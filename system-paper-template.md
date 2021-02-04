@@ -5,7 +5,7 @@ It offers a template for how you, the author, can structure your system descript
 
 NOTES: 
 
-1. Be sure to use the official stylesheet and follow its instructions.
+1. Be sure to use the official stylesheet and follow the [SemEval paper requirements](paper-requirements.html).
 2. Your paper should stand on its own. Don’t assume that your reader is familiar with the task. 
 3. This document is just a guideline for structuring your paper. You can feel free to use a different structure if it makes more sense.
 4. Some example system description papers from previous years that you can use as inspiration:

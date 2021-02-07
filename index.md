@@ -34,6 +34,12 @@ The workshop will take place August 5–6, 2021 in Bangkok, Thailand, colocated 
 
 The [call for task proposals](https://semeval.github.io/SemEval2022/cft) is open!
 
+## Resources
+
+- [Frequenty Asked Questions about SemEval](/faq.html)
+- [Paper Submission Requirements](/paper-requirements.html)
+- [Guidelines for Writing Papers](/system-paper-template.html)
+
 ## Anti-Harassment policy
 
 SemEval highly values the open exchange of ideas, freedom of thought and expression, and respectful scientific debate. We support and uphold the [NAACL Anti-Harassment policy](http://naacl.org/policies/anti-harassment.html). Participants are encouraged to send any concerns or questions to the [NAACL Board members](http://naacl.org/officers/), [Priscilla Rasmussen](mailto:acl@aclweb.org) and/or the workshop organizers.

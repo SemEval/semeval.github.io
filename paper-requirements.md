@@ -48,7 +48,7 @@ SemEval paper titles follow a fixed template, where `YYYY` represents the year a
   * Note that there is a colon, not a hyphen, after the task number, and a space after but not before the colon
   * Authors are free to choose the Descriptive Title as they would a normal paper title; it may mention a particular question addressed, method used, or finding discussed in the paper
 * System description papers for *multiple* tasks are titled "Team Name at SemEval-`YYYY` Tasks `N1` and `N2`: Descriptive Title" (2 tasks) or "Team Name at SemEval-`YYYY` Tasks `N1`, `N2`, and `N3`: Descriptive Title" (3 or more tasks)
-* Task description papers are titled "Task `N` at SemEval-`YYYY`: Task Name"
+* (UPDATED) Task description papers are titled "SemEval-`YYYY` Task `N`: Task Name"
 
 ## Authors
 

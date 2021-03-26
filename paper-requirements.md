@@ -38,7 +38,7 @@ Acknowledgments, references, and appendices do NOT count toward page limits.
 Once accepted, your final paper may have an additional page so you can address reviewer feedback. 
 Thus: 6 pages for a single-task system, 9 pages for multiple (sub)tasks, 10 pages for task descriptions (not counting acknowledgments/references/appendices).
 
-## **Title**
+## Title
 
 SemEval paper titles follow a fixed template, where `YYYY` represents the year and `N` represents the task number:
 
@@ -71,7 +71,7 @@ Task description papers should focus on:
 * **Analysis:** focus more on results and analysis and less on discussing rankings
 * **Summary of systems:** Summarize the techniques, features, and resources used. Highlight what tended to work and what did not, across the systems.
 
-## **Paper awards**
+## Paper awards
 
 Two overall awards are given to papers—one for organizers of a task and one for a team participating in a task. The awards are:
 
@@ -80,7 +80,7 @@ Two overall awards are given to papers—one for organizers of a task and one fo
 
 SemEval-2020 winners: <https://semeval.github.io/semeval2020-awards.html>
 
-## **Reminders for final version**
+## Reminders for final version
 
 * Ensure that **author names** are properly capitalized in START metadata and appear in the same order/spelling/capitalization as the PDF
 * Ensure that you have mentioned the language(s) of data used in the paper

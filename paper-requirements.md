@@ -40,20 +40,22 @@ Thus: 6 pages for a single-task system, 9 pages for multiple (sub)tasks, 10 page
 
 ## Title
 
-SemEval paper titles follow a fixed template, where `YYYY` represents the year and `N` represents the task number:
+SemEval paper titles follow a fixed template, where YYYY represents the year and N represents the task number:
 
-* System description papers for one task (any number of subtasks) are titled "Team Name at SemEval-`YYYY` Task `N`: Descriptive Title" 
-  * Note "at" and not "@"
-  * Note that SemEval and the year are separated by a hyphen and no spaces, e.g. "SemEval-2020"
-  * Note that there is a colon, not a hyphen, after the task number, and a space after but not before the colon
+* System description papers for one task (any number of subtasks) are titled "Team Name at SemEval-YYYY Task N: Descriptive Title" 
+  * Note "at", not "@"
+  * Note that "SemEval" and the year are separated by a hyphen and no spaces, e.g. "SemEval-2020"
+  * Note that the task number is followed by a colon, not a dash
+  * Note that the colon has a space after it but not before it
   * Authors are free to choose the Descriptive Title as they would a normal paper title; it may mention a particular question addressed, method used, or finding discussed in the paper
-* System description papers for *multiple* tasks are titled "Team Name at SemEval-`YYYY` Tasks `N1` and `N2`: Descriptive Title" (2 tasks) or "Team Name at SemEval-`YYYY` Tasks `N1`, `N2`, and `N3`: Descriptive Title" (3 or more tasks)
-* (UPDATED) Task description papers are titled "SemEval-`YYYY` Task `N`: Task Name"
+* System description papers for *multiple* tasks are titled "Team Name at SemEval-YYYY Tasks N1 and N2: Descriptive Title" (2 tasks) or "Team Name at SemEval-YYYY Tasks N1, N2, and N3: Descriptive Title" (3 or more tasks)
+* (UPDATED) Task description papers are titled "SemEval-YYYY Task N: Task Name"
 
 ## Authors
 
-At SemEval, papers are not anonymous when submitted for review. Enter your names and affiliations on the paper 
-(be it the system description paper or the task description paper).
+At SemEval, papers are not anonymous when submitted for review
+(for both system description papers and task description papers).
+Enter your names and affiliations on the paper.
 
 ## Contents
 

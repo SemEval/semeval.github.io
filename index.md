@@ -32,7 +32,7 @@ The workshop will take place August 5–6, 2021 in Bangkok, Thailand, colocated 
 
 ## [SemEval-2022](https://semeval.github.io/SemEval2022/)
 
-The [call for task proposals](https://semeval.github.io/SemEval2022/cft) is open!
+Timeline for SemEval-2022 is now available, and the tasks will be announced on August 6!
 
 ## Resources
 

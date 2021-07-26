@@ -22,7 +22,7 @@ It will take place December 12–13, 2020 <s>in Barcelona, Spain</s> online, col
 
 [__WORKSHOP SCHEDULE POSTED!__](https://semeval.github.io/semeval2020-sched.html)
 
-[__PROCEEDINGS__](https://aclanthology.org/events/semeval-2020/)
+[__PROCEEDINGS__](https://aclanthology.org/volumes/2020.semeval-1/)
 
 ## [SemEval-2021](https://semeval.github.io/SemEval2021/)
 
@@ -34,7 +34,7 @@ The workshop will take place August 5–6, 2021 in Bangkok, Thailand, colocated 
 
 [__WORKSHOP SCHEDULE POSTED!__](https://semeval.github.io/semeval2021-sched.html)
 
-[__PROCEEDINGS__](https://aclanthology.org/events/semeval-2021/)
+[__PROCEEDINGS__](https://aclanthology.org/volumes/2021.semeval-1/)
 
 ## [SemEval-2022](https://semeval.github.io/SemEval2022/)
 

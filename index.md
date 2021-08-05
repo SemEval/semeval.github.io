@@ -19,7 +19,9 @@ The evaluation period took place in January 2021. See the [SemEval-2021 homepage
 
 The workshop is taking place August 5–6, 2021 in Bangkok, Thailand, colocated with [ACL-IJCNLP 2021](https://2021.aclweb.org/).
 
-[__WORKSHOP SCHEDULE POSTED!__](https://semeval.github.io/semeval2021-sched.html)
+[__BEST PAPER AWARDS!__](https://SemEval2021/awards)
+
+[__WORKSHOP SCHEDULE__](https://semeval.github.io/semeval2021-sched.html)
 
 [__PROCEEDINGS__](https://aclanthology.org/volumes/2021.semeval-1/)
 

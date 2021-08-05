@@ -11,26 +11,13 @@ SemEval is sponsored by the [SIGLEX](http://alt.qcri.org/siglex/) Special Intere
 For more information on SemEval and its history, please see
 <http://en.wikipedia.org/wiki/SemEval>.
 
-## [SemEval-2020](http://alt.qcri.org/semeval2020/)
-
-The 14th edition of SemEval features 12 tasks on topics ranging from lexical semantic change to offensive language in social media.
-
-It will take place December 12–13, 2020 <s>in Barcelona, Spain</s> online, colocated with [COLING 2020](https://coling2020.org/).
-
-
-[__BEST TASK AND PAPER AWARDS!__](https://semeval.github.io/semeval2020-awards.html)
-
-[__WORKSHOP SCHEDULE POSTED!__](https://semeval.github.io/semeval2020-sched.html)
-
-[__PROCEEDINGS__](https://aclanthology.org/volumes/2020.semeval-1/)
-
 ## [SemEval-2021](https://semeval.github.io/SemEval2021/)
 
 The 15th edition of SemEval features [tasks](https://semeval.github.io/SemEval2021/tasks.html) ranging from prediction of lexical complexity to learning with disagreements, and including several cross-lingual and multi-modal tasks.
 
 The evaluation period took place in January 2021. See the [SemEval-2021 homepage](https://semeval.github.io/SemEval2021/) for details.
 
-The workshop will take place August 5–6, 2021 in Bangkok, Thailand, colocated with [ACL-IJCNLP 2021](https://2021.aclweb.org/).
+The workshop is taking place August 5–6, 2021 in Bangkok, Thailand, colocated with [ACL-IJCNLP 2021](https://2021.aclweb.org/).
 
 [__WORKSHOP SCHEDULE POSTED!__](https://semeval.github.io/semeval2021-sched.html)
 
@@ -39,6 +26,16 @@ The workshop will take place August 5–6, 2021 in Bangkok, Thailand, colocated 
 ## [SemEval-2022](https://semeval.github.io/SemEval2022/)
 
 Timeline for SemEval-2022 is now available, and the tasks will be announced on August 6!
+
+## Previous Years
+
+### [SemEval-2020](http://alt.qcri.org/semeval2020/)
+
+[Proceedings](https://aclanthology.org/volumes/2020.semeval-1/)
+
+[Best task and paper awards](https://semeval.github.io/semeval2020-awards.html)
+
+
 
 ## Resources
 

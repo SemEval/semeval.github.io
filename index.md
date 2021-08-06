@@ -17,7 +17,7 @@ The 15th edition of SemEval features [tasks](https://semeval.github.io/SemEval20
 
 The evaluation period took place in January 2021. See the [SemEval-2021 homepage](https://semeval.github.io/SemEval2021/) for details.
 
-The workshop is taking place August 5–6, 2021 in Bangkok, Thailand, colocated with [ACL-IJCNLP 2021](https://2021.aclweb.org/).
+The workshop took place virtually on August 5–6, 2021, colocated with [ACL-IJCNLP 2021](https://2021.aclweb.org/).
 
 [__BEST PAPER AWARDS!__](https://SemEval2021/awards)
 
@@ -27,7 +27,9 @@ The workshop is taking place August 5–6, 2021 in Bangkok, Thailand, colocated 
 
 ## [SemEval-2022](https://semeval.github.io/SemEval2022/)
 
-Timeline for SemEval-2022 is now available, and the tasks will be announced on August 6!
+The 16th edition of SemEval features [__12 TASKS__](https://semeval.github.io/SemEval2022/tasks.html) on a range of topics, including tasks on idiomaticy detection and embedding, sarcasm detection, multilingual news similarity, and linking mathematical symbols to their descriptions. Several tasks are multilingual, and others ask for multimodal approaches. 
+
+Trial data for most tasks is already available, and full training data will be released by early September. Take a look at the individual [__task__](https://semeval.github.io/SemEval2022/tasks.html) websites for more detailed information.
 
 ## Previous Years
 

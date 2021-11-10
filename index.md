@@ -19,7 +19,7 @@ For all tasks, training data is already available. Take a look at the individual
 
 ## Recent Years
 
-## [SemEval-2021](https://semeval.github.io/SemEval2021/)
+### [SemEval-2021](https://semeval.github.io/SemEval2021/)
 
 [Proceedings](https://aclanthology.org/volumes/2021.semeval-1/)
 

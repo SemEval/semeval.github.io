@@ -34,7 +34,7 @@ This depends on the task. Task organizers often specify how many submissions by 
 
 ### Where can I find datasets from past SemEval tasks?
 
-Task datasets are distributed by task organizers, not the SemEval organization. Starting with SemEval 2020 task organizers have been asked to archive datasets on Zenodo after the evaluation period concludes: <https://zenodo.org/communities/semeval/> For other tasks, check the task website and if that fails, contact the task organizers.
+Task datasets are distributed by task organizers, not the SemEval organization. Starting with SemEval-2020, task organizers have been asked to archive datasets on Zenodo after the evaluation period concludes: <https://zenodo.org/communities/semeval/>. For other tasks, check the task website and if that fails, contact the task organizers.
 
 ## On Papers, Proceedings, and the Workshop
 
@@ -75,4 +75,4 @@ First, if your question is about a specific task, consult the task website. The 
 
 Questions not answered there should probably be emailed to **task organizers**. They oversee the competition as well as the review of system papers for the task.
 
-Questions about the workshop event schedule/logistics should be sent to the SemEval organizers.
+Questions about the workshop event schedule/logistics should be sent to the SemEval organizers at <semevalorganizers@gmail.com>.

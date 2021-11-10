@@ -11,27 +11,19 @@ SemEval is sponsored by the [SIGLEX](http://alt.qcri.org/siglex/) Special Intere
 For more information on SemEval and its history, please see
 <http://en.wikipedia.org/wiki/SemEval>.
 
-## [SemEval-2021](https://semeval.github.io/SemEval2021/)
-
-The 15th edition of SemEval features [tasks](https://semeval.github.io/SemEval2021/tasks.html) ranging from prediction of lexical complexity to learning with disagreements, and including several cross-lingual and multi-modal tasks.
-
-The evaluation period took place in January 2021. See the [SemEval-2021 homepage](https://semeval.github.io/SemEval2021/) for details.
-
-The workshop took place virtually on August 5–6, 2021, colocated with [ACL-IJCNLP 2021](https://2021.aclweb.org/).
-
-[__BEST PAPER AWARDS!__](https://SemEval2021/awards)
-
-[__WORKSHOP SCHEDULE__](https://semeval.github.io/semeval2021-sched.html)
-
-[__PROCEEDINGS__](https://aclanthology.org/volumes/2021.semeval-1/)
-
 ## [SemEval-2022](https://semeval.github.io/SemEval2022/)
 
 The 16th edition of SemEval features [__12 TASKS__](https://semeval.github.io/SemEval2022/tasks.html) on a range of topics, including tasks on idiomaticy detection and embedding, sarcasm detection, multilingual news similarity, and linking mathematical symbols to their descriptions. Several tasks are multilingual, and others ask for multimodal approaches. 
 
-Trial data for most tasks is already available, and full training data will be released by early September. Take a look at the individual [__task__](https://semeval.github.io/SemEval2022/tasks.html) websites for more detailed information.
+For all tasks, training data is already available. Take a look at the individual [__task__](https://semeval.github.io/SemEval2022/tasks.html) websites for more detailed information.
 
-## Previous Years
+## Recent Years
+
+## [SemEval-2021](https://semeval.github.io/SemEval2021/)
+
+[Proceedings](https://aclanthology.org/volumes/2021.semeval-1/)
+
+[Best task and paper awards](https://semeval.github.io/SemEval2021/awards)
 
 ### [SemEval-2020](http://alt.qcri.org/semeval2020/)
 

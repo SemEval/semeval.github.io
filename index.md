@@ -17,6 +17,10 @@ The 16th edition of SemEval features [__12 TASKS__](https://semeval.github.io/Se
 
 For all tasks, training data is already available. Take a look at the individual [__task__](https://semeval.github.io/SemEval2022/tasks.html) websites for more detailed information.
 
+## [SemEval-2023](https://semeval.github.io/SemEval2023/)
+
+The [__call for task proposals__](https://semeval.github.io/SemEval2023/cft) is open!
+
 ## Recent Years
 
 ### [SemEval-2021](https://semeval.github.io/SemEval2021/)

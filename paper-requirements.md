@@ -80,7 +80,8 @@ Two overall awards are given to papers—one for organizers of a task and one fo
 * **Best Task (task organizers):** This award recognizes a task that stands out for making an important intellectual contribution to empirical computational semantics, as demonstrated by a creative, interesting, and scientifically rigorous dataset and evaluation design, and a well-written task overview paper.
 * **Best Paper (task participants):** This award recognizes a system description paper that advances our understanding of a problem and available solutions with respect to a task. It need not be the highest-scoring system in the task, but it must have a strong analysis component in the evaluation, as well as a clear and reproducible description of the problem, algorithms, and methodology.
 
-SemEval-2020 winners: <https://semeval.github.io/semeval2020-awards.html>
+SemEval-2020 winners: <https://semeval.github.io/semeval2020-awards>
+SemEval-2021 winners: <https://semeval.github.io/SemEval2021/awards>
 
 ## Reminders for final version
 

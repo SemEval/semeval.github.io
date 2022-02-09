@@ -9,11 +9,12 @@ NOTES:
 2. Your paper should stand on its own. Don’t assume that your reader is familiar with the task. 
 3. This document is just a guideline for structuring your paper. You can feel free to use a different structure if it makes more sense.
 4. Some example system description papers from previous years that you can use as inspiration:
+   - [Best paper awardees at SemEval-2020](https://semeval.github.io/semeval2020-awards.html)
+   - [Best paper awardees at SemEval-2021](https://semeval.github.io/SemEval2021/awards)
    - <https://www.aclweb.org/anthology/S16-1181>
    - <https://www.aclweb.org/anthology/S14-2030>
    - <https://www.aclweb.org/anthology/S18-1008>
    - <https://www.aclweb.org/anthology/S07-1044> [multiple tasks]
-   - Best paper awardees at SemEval-2020: <https://semeval.github.io/semeval2020-awards.html>
 5. We would like to emphasize the importance of analysis of your system’s behavior beyond the overall scores. There will be a best paper award to recognize system papers with strong analysis.
 
 ## Abstract

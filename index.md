@@ -11,17 +11,24 @@ SemEval is sponsored by the [SIGLEX](http://alt.qcri.org/siglex/) Special Intere
 For more information on SemEval and its history, please see
 <http://en.wikipedia.org/wiki/SemEval>.
 
-## [SemEval-2022](https://semeval.github.io/SemEval2022/)
-
-The 16th edition of SemEval features [__12 TASKS__](https://semeval.github.io/SemEval2022/tasks.html) on a range of topics, including tasks on idiomaticy detection and embedding, sarcasm detection, multilingual news similarity, and linking mathematical symbols to their descriptions. Several tasks are multilingual, and others ask for multimodal approaches. 
-
-For all tasks, training data is already available. Take a look at the individual [__task__](https://semeval.github.io/SemEval2022/tasks.html) websites for more detailed information.
+<!--
+## [SemEval-2024](https://semeval.github.io/SemEval2024/)
+The [__call for task proposals__](https://semeval.github.io/SemEval2024/cft) is open!
+-->
 
 ## [SemEval-2023](https://semeval.github.io/SemEval2023/)
 
-The [__call for task proposals__](https://semeval.github.io/SemEval2023/cft) is open!
+The 17th edition of SemEval features [__12 TASKS__](https://semeval.github.io/SemEval2023/tasks.html) on a range of topics, including tasks on idiomaticy detection and embedding, sarcasm detection, multilingual news similarity, and linking mathematical symbols to their descriptions. Several tasks are multilingual, and others ask for multimodal approaches. 
+
+For all tasks, some sample data is already available. Take a look at the individual task websites for more detailed information.
 
 ## Recent Years
+
+### [SemEval-2022](https://semeval.github.io/SemEval2022/)
+
+[Proceedings](https://aclanthology.org/volumes/2022.semeval-1/)
+
+[Best task and paper awards](https://semeval.github.io/SemEval2022/awards)
 
 ### [SemEval-2021](https://semeval.github.io/SemEval2021/)
 

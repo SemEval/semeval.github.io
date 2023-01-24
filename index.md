@@ -16,10 +16,9 @@ For more information on SemEval and its history, please see
 The [__call for task proposals__](https://semeval.github.io/SemEval2025/cft) is open!
 -->
 
-
 ## [SemEval-2024](https://semeval.github.io/SemEval2024/)
-The [__call for task proposals__](https://semeval.github.io/SemEval2024/cft) is open!
 
+The [__call for task proposals__](https://semeval.github.io/SemEval2024/cft) is open!
 
 ## [SemEval-2023](https://semeval.github.io/SemEval2023/)
 

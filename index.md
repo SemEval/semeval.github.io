@@ -26,6 +26,8 @@ For all tasks, some sample data is already available. Take a look at the individ
 
 [Proceedings](https://aclanthology.org/volumes/2023.semeval-1/)
 
+[Best task and paper awards](https://semeval.github.io/SemEval2023/awards)
+
 ## Recent Years
 
 ### [SemEval-2022](https://semeval.github.io/SemEval2022/)

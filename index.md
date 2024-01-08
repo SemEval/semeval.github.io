@@ -11,10 +11,10 @@ SemEval is sponsored by the [SIGLEX](http://alt.qcri.org/siglex/) Special Intere
 For more information on SemEval and its history, please see
 <http://en.wikipedia.org/wiki/SemEval>.
 
-<!--
+
 ## [SemEval-2025](https://semeval.github.io/SemEval2025/)
 The [__call for task proposals__](https://semeval.github.io/SemEval2025/cft) is open!
--->
+
 
 ## [SemEval-2024](https://semeval.github.io/SemEval2024/)
 

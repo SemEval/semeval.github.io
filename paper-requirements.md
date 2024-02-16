@@ -81,8 +81,11 @@ Two overall awards are given to papers—one for organizers of a task and one fo
 * **Best Paper (task participants):** This award recognizes a system description paper that advances our understanding of a problem and available solutions with respect to a task. It need not be the highest-scoring system in the task, but it must have a strong analysis component in the evaluation, as well as a clear and reproducible description of the problem, algorithms, and methodology.
 
 SemEval-2020 winners: <https://semeval.github.io/semeval2020-awards><br>
+
 SemEval-2021 winners: <https://semeval.github.io/SemEval2021/awards><br>
+
 SemEval-2022 winners: <https://semeval.github.io/SemEval2022/awards><br> 
+
 SemEval-2023 winners: <https://semeval.github.io/SemEval2023/awards>
 
 

@@ -65,6 +65,10 @@ SemEval proceedings are published in the ACL Anthology: <https://www.aclweb.org/
 
 Typically papers are published about a week prior to the start of the conference with which the SemEval workshop is colocated.
 
+### Can I change my team name or add another author to my paper for the camera ready?
+
+We cannot allow additions/revisions or name changes after the review period for the camera ready.  
+
 ### What is the policy regarding SemEval papers on arXiv?
 
 Authors are free to submit SemEval papers to arXiv if they wish, at any time. Since SemEval task and system description papers are not anonymous during review, posting an initial draft to arXiv will not interfere with the review process (but if you do this please also upload the camera-ready version to arXiv when it is ready).

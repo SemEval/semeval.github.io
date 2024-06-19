@@ -17,7 +17,7 @@ For more information on SemEval and its history, please see
 <!--- The [__call for task proposals__](https://semeval.github.io/SemEval2025/cft) is open!--->
 The 19th edition of SemEval features [__11 TASKS__](https://semeval.github.io/SemEval2025/tasks.html) on a range of topics, including tasks on idiomaticy detection and embedding, sarcasm detection, multilingual news similarity, and linking mathematical symbols to their descriptions. Several tasks are multilingual, and others ask for multimodal approaches. 
 
-For all tasks, some sample data is already available. Take a look at the individual task websites for more detailed information.
+<!--- For all tasks, some sample data is already available. Take a look at the individual task websites for more detailed information.--->
 
 
 ## [SemEval-2024](https://semeval.github.io/SemEval2024/)

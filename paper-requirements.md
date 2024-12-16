@@ -25,11 +25,15 @@ Make sure to follow all those instructions—except the parts for which SemEval 
 
 ### Submissions for review
 
-**NEW** Team participants only submit one paper regardless of number of tasks they participated in.
+**NEW** Team participants are encouraged to only submit one paper regardless of number of tasks they participated in IF they use the same approach in both tasks.
 
-System paper submissions for a single task can be up to **5 pages**.
+NOTE: A task refers to a main task from the tasks page. It **does not** refer to subtasks within a single task.
 
-Teams participating in multiple tasks can add **2 addtional** pages per task to their system paper. e.g. If they participate in 2 tasks the limit is **7 pages** and if they participate in 3 tasks the limit is **9 pages**. NOTE: This is a change in submission requirements from previous years.
+System paper submissions for a single task can be up to **5 pages** (regardless of number of subtasks the team participated in).
+
+Teams participating in multiple tasks that use the same approach can add **2 additional** pages per task to their system paper. e.g. If they participate in 2 tasks the limit is **7 pages** and if they participate in 3 tasks the limit is **9 pages**. NOTE: This is a change in submission requirements from previous years.
+
+If the approach is different, or the team members differ, then separate papers should be written per task up to **5 pages** each.
 
 Task description papers (written by task organizers) can be up to **9 pages**.
 
